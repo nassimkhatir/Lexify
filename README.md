@@ -1,6 +1,6 @@
 # Lexify
 
-<a href="https://drive.google.com/file/d/1Up7QZtkXIIDnLxHFcCjw3MpzwbBp2i0_/view?usp=sharing" target="_blank" rel="download">![Foo](https://www.quantumhealthapps.com/wp-content/uploads/2017/03/Download-button-now.png)</a>
+<a href="https://drive.google.com/file/d/1Up7QZtkXIIDnLxHFcCjw3MpzwbBp2i0_/view?usp=sharing" rel="download">![Foo](https://www.quantumhealthapps.com/wp-content/uploads/2017/03/Download-button-now.png)</a>
 
 
 
