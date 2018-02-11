@@ -16,9 +16,11 @@ Développé sur mobile, et plus spécialement sur la Plateforme **Android**, Lex
   
 ## Comment installer un fichier APK 
 
-https://www.androidpit.fr/comment-installer-apk-android
+[Tutoriel](https://www.androidpit.fr/comment-installer-apk-android)
+
+
   
 ## Auteurs
-* **KHATIR Nassim** - (https://github.com/nassimkhatir)
-* **Nayet Lucas** - (https://github.com/LNayet)
-* **Piot Nicolas** - (https://github.com/Yxiaa)
+* **KHATIR Nassim** - [Github](https://github.com/nassimkhatir)
+* **Nayet Lucas** - [Github](https://github.com/LNayet)
+* **Piot Nicolas** - [Github](https://github.com/Yxiaa)
