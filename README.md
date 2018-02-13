@@ -18,8 +18,10 @@ Développé sur mobile, et plus spécialement sur la Plateforme **Android**, Lex
 
 [Tutoriel](https://www.androidpit.fr/comment-installer-apk-android)
 
+### Version minimale d'Android 
 
-  
+Android 5.0
+
 ## Auteurs
 * **KHATIR Nassim** - [Github](https://github.com/nassimkhatir)
 * **Nayet Lucas** - [Github](https://github.com/LNayet)
